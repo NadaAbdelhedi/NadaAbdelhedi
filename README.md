@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nada Abdelhedi</h1>
-<h3 align="center">A passionate Data Science Student</h3>
-<p align="center"> 🌟 Data Engineering and Decision Systems student from Tunisia, bringing creativity and technical expertise to develop efficient solutions 🌟</p>
+<h3 align="center"> 🌟 A passionate Data Science Student 🌟 </h3>
+<p align="center"> Data Engineering and Decision Systems student from Tunisia, bringing creativity and technical expertise to develop efficient solutions.
+</p>
 
 ---
 
-<h3> 🔹 About me:</h3>
+<h3> 💻 About me:</h3>
+I am a **Data Engineering and Decision Systems** student at the National School of Electronics and Telecommunications of Sfax, with a solid academic foundation in **Big Data and Data Analysis** from the University of Sfax (ISIMS).
+
 - 🌱 **Currently Learning:** Data Science, Machine Learning, and AI.
 - 💼 **Passionate About:** Building scalable and user-friendly applications.
 - 🎯 **Current Focus:** Advancing skills in Data Analytics and Visualization.
