@@ -1,34 +1,31 @@
 <h1 align="center">Hi 👋, I'm Nada Abdelhedi</h1>
-<h3 align="center"> 🌟 A passionate Data Science Student 🌟 </h3>
-<p align="center"> Data Engineering and Decision Systems student from Tunisia, bringing creativity and technical expertise to develop efficient solutions.
-</p>
+<h3 align="center"> 🌟 A passionate Data Science from Tunisia 🌟 </h3>
+<h5 align="center">🚀 Data Engineering & AI Enthusiast | Innovating Solutions Through Data 🚀</h5>
 
 ---
 
-<h3> 💻 About me:</h3>
-I am a **Data Engineering and Decision Systems** student at the National School of Electronics and Telecommunications of Sfax, with a solid academic foundation in **Big Data and Data Analysis** from the University of Sfax (ISIMS).
+<h3> 👩‍💻 About me:</h3>
+<p>I am a <b>Data Engineering and Decision Systems</b> student at the National School of Electronics and Telecommunications of Sfax, with a solid academic foundation in <b>Big Data and Data Analysis</b> from the University of Sfax (ISIMS).</p>
 
-- 🌱 **Currently Learning:** Data Science, Machine Learning, and AI.
-- 💼 **Passionate About:** Building scalable and user-friendly applications.
-- 🎯 **Current Focus:** Advancing skills in Data Analytics and Visualization.
-- 📫 **Reach Me At:** nadaabdelhedi17@gmail.com.
+
+<ul>
+  <li>🌱 <b>Currently Learning:</b> Data Science, Machine Learning, and AI.</li>
+  <li>💼 <b>Passionate About:</b> Building scalable and user-friendly applications.</li>
+  <li>🎯 <b>Current Focus:</b> Advancing skills in Data Analytics and Visualization.</li>
+  <li>📫 <b>Reach Me At:</b> nadaabdelhedi17@gmail.com.</li>
+</ul>
 
 ---
 
 <h3>🔹 Projects and Interests:</h3>
-I am passionate about **AI**, **data engineering**, and **data visualization**, focusing on:
-- Automating processes through **analytical** and **AI-driven solutions**
-- Creating **interactive dashboards** for insightful analysis
-- Applying **machine learning** and **deep learning** techniques to real-world challenges
-
----
-
-<h3>🔹 Why Follow My Work?</h3>
-Here, you’ll find:
-- Practical solutions to **data-related problems**
-- Professional-level **project demonstrations**
-- Impactful examples of **data visualizations**
-
+<p>
+  I am passionate about <b>AI</b>, <b>data engineering</b>, and <b>data visualization</b>, focusing on:
+</p>
+<ul>
+  <li>Automating processes through <b>analytical</b> and <b>AI-driven solutions</b></li>
+  <li>Creating <b>interactive dashboards</b> for insightful analysis</li>
+  <li>Applying <b>machine learning</b> and <b>deep learning</b> techniques to real-world challenges</li>
+</ul>
 ---
 
 <h3 align="left">🛠️ Skills & Technologies:</h3>
